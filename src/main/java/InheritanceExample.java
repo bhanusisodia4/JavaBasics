@@ -8,7 +8,7 @@ public class InheritanceExample {
 }
 
 class Runner extends InheritanceExample{
-    public void show(){
+     void show(){
         System.out.println("This Method is in child class");
     }
 }
